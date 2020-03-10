@@ -8,4 +8,4 @@ The shape of the continuum for I Zw 1 is obtained from the *[NED database](http:
 
 The fluxes are reported in cgs units using the conversion: ([X erg/cm^2/s/Hz] = 1.0E-23 [Y Jy] )
 
-The OUTPUT files (which also provides the input parameters + {spectroscopic + physical} properties) can be accessed using the google drive *[link]{https://drive.google.com/open?id=1pDN2LdNh4rkPY84q20_D3nWlJpwRbtfw}* (files are > 2GB)
+The OUTPUT files (which also provides the input parameters + {spectroscopic + physical} properties) can be accessed using the google drive *[link](https://drive.google.com/open?id=1pDN2LdNh4rkPY84q20_D3nWlJpwRbtfw)* (files are > 2GB)
