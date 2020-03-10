@@ -1,0 +1,15 @@
+title LOC_testing
+ionization parameter = -1 vary
+grid -7 0 0.25
+hden 12 vary
+grid 5 13 0.25
+iterate to convergence
+stop column density 24
+abundances GASS10
+table SED "1zw1.sed"
+print line faint -20 off
+print last
+species "Fe+" levels=all
+save species bands "FeII_bands.ini" "bands.feii" "Fe+"
+save continuum ".con" units Hz last
+save overview ".ovr"
